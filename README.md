@@ -1,0 +1,1 @@
+A beginner-friendly chatbot built using basic Python constructs like if statements, string handling, and loops. This chatbot responds to simple greetings, questions about learning Python, and finding learning resources.
